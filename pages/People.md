@@ -7,13 +7,13 @@ tags: [Page]
 ---
 
 
-#Workshop Organizers
-- *Pierpaolo Basile* Department of Computer Science, University of Bari Aldo Moro, Italy
-- *Pasquale Lops* Department of Computer Science, University of Bari Aldo Moro, Italy
-- *Lucia Siciliani* Department of Computer Science, University of Bari Aldo Moro, Italy
-- *Vincenzo Taccardi* Department of Computer Science, University of Bari Aldo Moro, Italy
-- *Marco Di Ciano* InnovaPuglia S.p.A. 
-- *Nicola Lopane* Regione Puglia 
+# Workshop Organizers
+- **Pierpaolo Basile** Department of Computer Science, University of Bari Aldo Moro, Italy
+- **Pasquale Lops** Department of Computer Science, University of Bari Aldo Moro, Italy
+- **Lucia Siciliani** Department of Computer Science, University of Bari Aldo Moro, Italy
+- **Vincenzo Taccardi** Department of Computer Science, University of Bari Aldo Moro, Italy
+- **Marco Di Ciano** InnovaPuglia S.p.A. 
+- **Nicola Lopane** Regione Puglia 
 
-#PC Members
+# PC Members
 TBD
