@@ -9,8 +9,7 @@ avatar: assets/img/triangle.png                         # Empty for no avatar in
 favicon: assets/favicon.ico                             # Icon displayed in the tab
 
 # Header and footer text
-header_text: AIxPA
-Workshop on # Change Blog header text
+header_text: <p>AIxPA<br>Workshop on # Change Blog header text</p>
 header_feature_image: assets/img/pexels-pixabay-373543.jpg
 header_feature_image_responsive: true
 footer_text: >
