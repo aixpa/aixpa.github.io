@@ -16,4 +16,12 @@ tags: [Page]
 - **Nicola Lopane** - Regione Puglia 
 
 # PC Members
-TBD
+
+- **Maurizio Lenzerini** - Sapienza University of Rome, Italy
+- **Paolo Merialdo** - Roma Tre University, Italy
+- **Fabio Gasparetti** -  Roma Tre University, Italy
+- **Lucio Narducci** - Polytechnic University of Bari, Italy
+- **Giuseppe Marziale** - Regione Puglia
+- **Marco Polignano** - Department of Computer Science, University of Bari Aldo Moro, Italy
+- **Giovanni Semeraro** - Department of Computer Science, University of Bari Aldo Moro, Italy
+
