@@ -17,11 +17,11 @@ tags: [Page]
 
 # PC Members
 
-- **Maurizio Lenzerini** - Sapienza University of Rome, Italy
-- **Paolo Merialdo** - Roma Tre University, Italy
 - **Fabio Gasparetti** -  Roma Tre University, Italy
-- **Lucio Narducci** - Polytechnic University of Bari, Italy
+- **Maurizio Lenzerini** - Sapienza University of Rome, Italy
 - **Giuseppe Marziale** - Regione Puglia
+- **Paolo Merialdo** - Roma Tre University, Italy
+- **Lucio Narducci** - Polytechnic University of Bari, Italy
 - **Marco Polignano** - Department of Computer Science, University of Bari Aldo Moro, Italy
 - **Giovanni Semeraro** - Department of Computer Science, University of Bari Aldo Moro, Italy
 
