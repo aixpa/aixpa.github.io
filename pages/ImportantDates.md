@@ -7,7 +7,7 @@ tags: [Page]
 ---
 
 
-**Paper submission deadline**:  September 19th, 2022 (11:59 pm Hawaii time)
+**Paper submission deadline**:  ~~September 19th, 2022~~ September 27th,2022 (11:59 pm Hawaii time)
 
 **Notification of paper acceptance**: October 17th, 2022 
 
