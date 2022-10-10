@@ -7,10 +7,10 @@ tags: [Page]
 ---
 
 
-**Paper submission deadline**:  ~~September 19th, 2022~~ September 27th,2022 (11:59 pm Hawaii time)
+**Paper submission deadline**: October 17th, 2022 (11:59 pm Hawaii time)
 
-**Notification of paper acceptance**: October 17th, 2022 
+**Notification of paper acceptance**: October 31st, 2022 
 
-**Camera-ready version deadline**: October 24th, 2022
+**Camera-ready version deadline**: November 7th, 2022
 
-**Workshop (at AI*IA 2022)**: TBD
+**Workshop (at AI*IA 2022)**: December 2nd, 2022 
