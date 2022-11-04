@@ -6,6 +6,7 @@ feature-img: "assets/img/pexels-rov-camato-700413.jpg"
 tags: [Page]
 ---
 
+Further details about the workshop program will be added soon. Below, you can find the list of the accepted papers.
 
 | Authors                                                                                       | Paper Title                                                                                                                |
 |-----------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------|
