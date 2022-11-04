@@ -2,7 +2,7 @@
 layout: page
 title: Program
 permalink: /program/
-feature-img: "assets/img/pexels-rov-camato-700413.jpg"
+feature-img: "assets/img/pexels-nikolai-ulltang-323933.jpg"
 tags: [Page]
 ---
 
