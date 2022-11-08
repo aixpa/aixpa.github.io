@@ -11,6 +11,6 @@ tags: [Page]
 
 **Notification of paper acceptance**: October 31st, 2022 
 
-**Camera-ready version deadline**: November 7th, 2022
+**Camera-ready version deadline**: November 16th, 2022
 
 **Workshop (at AI*IA 2022)**: December 2nd, 2022 
