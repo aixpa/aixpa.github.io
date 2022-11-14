@@ -33,5 +33,3 @@ tags: [Page]
 **12:40-12:55** - *Silvia Meschini, Giuseppe Martino Di Giuda and Lavinia Chiara Tagliabue.* Leveraging Digital Twins to enhance Green Public Procurement in AECO industry
 
 **12:55-13:00** - Closing
-Hi! I'm your first Markdown file in **StackEdit**. If you want to learn about StackEdit, you can read me. If you want to play with Markdown, you can edit me. Once you have finished with me, you can create new files by opening the **file explorer** on the left corner of the navigation bar.
-
