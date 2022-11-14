@@ -10,6 +10,7 @@ tags:
 # Invited Speakers
 
 ## Rosa Meo
+<a id="rosameo"></a>
 
 ### What can Machine Learning do for the public procurement?  
 *by Rosa Meo, Roberto Nai and Paolo Pasteris*
@@ -20,5 +21,6 @@ Rosa Meo is associate professor in Computer Science ate University of Torino. He
 __________________________
 
 ## Monica Messa
+<a id="monicamessa"></a>
 TBD
 
