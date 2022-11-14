@@ -6,13 +6,14 @@ feature-img: "assets/img/pexels-nikolai-ulltang-323933.jpg"
 tags: [Page]
 
 ---
-# Program
+# Program 
+*tentative*
 
 ## 10:00 - 13:00
 **10:00-10:05** - Welcome
 
 **10:05-10:30** - **Invited Speaker**
-*Rosa Meo, Roberto Nai and Paolo Pasteris.* What can Machine Learning do for public procurement?
+*Rosa Meo, Roberto Nai and Paolo Pasteris.* [What can Machine Learning do for public procurement?](https://aixpa.github.io/speakers#rosameo)
 
 **10:30-10:45**
 *Iwona Karkliniewska.* Building Transparency and Robustness of AI/ADM Management in Public Sector
@@ -26,7 +27,7 @@ tags: [Page]
 **11:45-12:00** - *Serena Auriemma, Martina Miliani, Alessandro Bondielli, Lucia C. Passaro and Alessandro Lenci.* Evaluating pre-trained Transformers on Italian administrative texts
 
 **12:00-12:25** - **Invited Speaker**
-*Monica Massa.* Innovapuglia…
+*Monica Massa.* - TBD
 
 **12:25-12:40** - *Martina Miliani, Marco Senaldi, Gianluca Lebani and Alessandro Lenci.* Understanding Italian Administrative Texts: A Reader-oriented Study for Text Readability and Simplification
 
