@@ -8,9 +8,8 @@ tags:
 ---
 
 # Invited Speakers
-
-## Rosa Meo
 <a id="rosameo"></a>
+## Rosa Meo
 
 ### What can Machine Learning do for the public procurement?  
 *by Rosa Meo, Roberto Nai and Paolo Pasteris*
