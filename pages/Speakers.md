@@ -21,5 +21,11 @@ __________________________
 
 ## Monica Messa
 <a id="monicamessa"></a>
-TBD
+
+###Artificial Intelligence and Public Procurement: Pilot Applications for the Apulia Regional Central Purchasing Body
+*by Monica Messa, Marco Di Ciano, Giuseppe Marziale, Nicola Lopane, Antonio Scaramuzzi*
+###Abstract
+We present the research work and the prototype experiments we have conducted with the aim of providing new AI instruments to support tender management and administrative observatory of public contracts within the regulatory framework of the public administration sector for the implementation of public procurement. With this purpose we have studied and tested AI techniques of Relational and Distributional Semantics, Machine Learning, Natural Language Processing, Information extraction, Information Filtering,Recommender Systems, etc., to create a "passport" for economic operators taking part to a tender for work, services and goods in the field of public procurement applications and for the analysis of textual documents and automatic extraction of knowledge from different databases. 
+###Monica Meo's Bio
+Monica Messa is project manager for public administration applications and tenders at the regional central purchasing body. The work presented is the result of an active collaboration with the University of Bari and with the Regional Observatory of Public Contracts at the Apulia Region.  
 
