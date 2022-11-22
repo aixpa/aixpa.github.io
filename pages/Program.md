@@ -6,8 +6,7 @@ feature-img: "assets/img/pexels-nikolai-ulltang-323933.jpg"
 tags: [Page]
 
 ---
-# Program 
-*tentative*
+**[UPDATE: Proceedings are now available](https://ceur-ws.org/Vol-3285/)**
 
 ## 10:00 - 13:00
 **10:00-10:05** - Welcome
